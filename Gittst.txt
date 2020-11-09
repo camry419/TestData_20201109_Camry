@@ -2,3 +2,5 @@ dim strTst as string
 strTst = "hello,World!!"
 
 console.writeline(strTst)
+
+dim test as integer = 1
