@@ -1,0 +1,4 @@
+dim strTst as string
+strTst = "hello,World!!"
+
+console.writeline(strTst)
