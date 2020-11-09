@@ -4,3 +4,6 @@ strTst = "hello,World!!"
 console.writeline(strTst)
 
 dim test as integer = 1
+dim test2 as integer = 2
+
+console.writeline(test2)
